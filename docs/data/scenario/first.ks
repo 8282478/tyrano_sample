@@ -1,6 +1,6 @@
 *start
 
-[title name="寝るかするメロス"]
+[title name="昼食"]
 [hidemenubutton]
 [wait time=200]
 [freeimage layer="base"]
